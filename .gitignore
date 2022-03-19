@@ -1,5 +1,5 @@
 *env/
-Weights_per_epochs
+Weights_per_epochs/
 weights/
 checkpoints/
 .ipynb_checkpoints/
